@@ -1,3 +1,5 @@
+Authors: Jordan Bardwell, Colt Coan
+
 Param(
     [Parameter(Mandatory=$true)]
     [String]$NewEmployeeID,
