@@ -1,3 +1,5 @@
+#Author: Jordan Bardwell
+
 $credObject = Get-AutomationPSCredential -Name "svc_account"
 
 Connect-Msolservice -Credential $credObject
