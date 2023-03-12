@@ -1,0 +1,1 @@
+This code was a collaboration of a few individuals over the time of our creating it. I don't claim full responsibility for these, but I led the design and development of the AutoJML solution we created, so I figured I'd share some. 
